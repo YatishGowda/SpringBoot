@@ -1,0 +1,6 @@
+com\springboot\example\springbootpeople\controller\MyController.class
+com\springboot\example\springbootpeople\SpringbootpeopleApplication.class
+com\springboot\example\springbootpeople\dao\MyDaoRepository.class
+com\springboot\example\springbootpeople\service\MyService.class
+com\springboot\example\springbootpeople\model\Customer.class
+com\springboot\example\springbootpeople\service\MyServiceImpl.class
